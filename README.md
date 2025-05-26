@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hey%2C+I'm+Shawn!;Full-Stack+Dev+%7C+Embedded+Engineering!" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+I'm+Shawn!;Developer+%7C+Embedded+Engineering!" alt="Typing Intro" />
 </h1>
 
 <p>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>Computer Engineering • Developer • Embedded Systems</b><br/>
-  <i>Exploring with web, build sofware and hardware projects!</i>
+  <i>Exploring possibilities with web, build software and hardware projects!</i>
 </p>
 
 ---
