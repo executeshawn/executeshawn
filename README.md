@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+Hi+there 👋;I'm+Shawn!" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hola+👋;I'm+Shawn!" alt="Typing Intro" />
 </h1>
 
 <p>
@@ -16,43 +16,44 @@
 ##  Technologies Used
 
 #### Programming Languages
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 #### Full-Stack Frameworks
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
   
 #### Frontend Technologies
-  !![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=flat-square&logo=microsoft&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 #### Backend Technologies
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Hosting Platforms
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
 #### Authentication Services
-  ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=flat-square&logo=clerk&logoColor=white)
-  ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+  ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
+  ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### Database Services
-  ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+  ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
 #### Storage Services
-  ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+  ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ####  Microcontollers & Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
