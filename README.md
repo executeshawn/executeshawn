@@ -101,7 +101,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=with+Light,+Fan,+and+Outlet+Control+System" alt="Line 2" />
 </p>
 
-
+<p align="center">
+  <img src="assets/img0.jpg" alt="Project Demo" width="400"/>
+</p>
 
 > Smart door lock using solenoid and a real-time web interface to log access.
 
