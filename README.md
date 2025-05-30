@@ -83,6 +83,9 @@
 ###  **SariXpress**
 > SariXpress is an online sari-sari store built with Spring Tools Suite 4, offering a seamless shopping experience with product browsing, order management, and secure transactions. Powered by Spring Boot, it delivers a fast, scalable, and user-friendly platform for local retail.
 
+###  **ACS AccessBright: Smart Door Lock & Lighting Control System**
+> The AccessBright project is an embedded system that uses an ESP32 microcontroller, RFID card authentication, and dual-channel relays to control both a solenoid door lock and classroom lighting, with all access events and attendance data securely managed in a Firebase database. Administrators can monitor real-time logs and manage user access conveniently through a dedicated C# Windows Forms desktop application.
+
 ###  **CIT-U ETEEAP Portal**  
 > [🔗 citu-eteeap.vercel.app](https://citu-eteeap.vercel.app)  
 > Application platform for CIT-U's ETEEAP program with secure Clerk + Firebase integration and live form tracking.
