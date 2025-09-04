@@ -1,9 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hola+👋;I'm+Shawn!" alt="Typing Intro" />
-</h1>
+<p align="center" style="position: relative;">
+  <!-- Capsule banner without text -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&fontSize=35&animation=fadeIn" 
+       alt="Custom Banner" style="width:100%;display:block;"/>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=%20%20Welcome%20to%20my%20Dev%20Profile!%20%20&fontSize=35&fontAlign=middle&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Custom Banner" style="width:100%;display:block;"/>
+  <!-- Typing intro overlayed in center -->
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hola+👋;I'm+Shawn!" 
+         alt="Typing Intro"/>
+  </span>
 </p>
 
 <p align="center">
