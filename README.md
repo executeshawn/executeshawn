@@ -1,14 +1,18 @@
-<p align="center" style="position: relative; margin:0; padding:0;">
-  <!-- Capsule banner (no text inside it) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&fontColor=ffffff&animation=fadeIn" 
-       alt="Custom Banner" style="width:100%;display:block;"/>
+<div style="
+    width: 100%;
+    height: 200px;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    border-radius: 50px; /* simulate capsule */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hola+👋+I'm+Shawn!;Welcome+to+my+Dev+Profile!" 
+       alt="Typing Intro"/>
+</div>
 
-  <!-- Typing text overlay -->
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hola+👋+I'm+Shawn!;Welcome+to+my+Dev+Profile!" 
-         alt="Typing Intro"/>
-  </span>
-</p>
 
 <p align="center">
   <b>Computer Engineering • Developer • Embedded Systems</b><br/>
