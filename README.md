@@ -1,10 +1,30 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=45&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&height=80&lines=Hola+👋;I'm+Shawn!" alt="Typing Intro" />
-</h1>
+<div style="
+    width: 100%;
+    max-width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    animation: fadeIn 2s ease-in-out;
+">
+  <!-- Typing text inside the banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=35&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hola+👋+I'm+Shawn!;Welcome+to+my+Dev+Profile!" 
+       alt="Typing Intro"/>
+</div>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=%20%20Welcome%20to%20my%20Dev%20Profile!%20%20&fontSize=35&fontAlign=middle&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Custom Banner" style="width:100%;display:block;"/>
-</p>
+<!-- Fade-in animation keyframes -->
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 
 
 <p align="center">
