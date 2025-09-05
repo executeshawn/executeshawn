@@ -68,6 +68,13 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photo%20Shop-FF5A00?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
+### **🏠 Homelab Stack**
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+
 ---
 
 ##  What I Do
@@ -101,15 +108,8 @@
 ##  Currently Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=FaceRecognition+Access+Door+Lock" alt="Line 1" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=with+Light,+Fan,+and+Outlet+Control+System" alt="Line 2" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=BUILDING+MY+FUTURE!" alt="Line 1" />
 </p>
-
-<p align="center">
-  <img src="assets/img0.jpg" alt="Project Demo" width="400"/>
-</p>
-
-> Smart door lock using solenoid and a real-time web interface to log access.
 
 ---
 
