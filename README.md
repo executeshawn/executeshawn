@@ -126,14 +126,8 @@
 
 ---
 
-<p align="center" style="position: relative; margin:0; padding:0;">
-  <!-- Capsule footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" 
-       style="width:100%; display:block;" />
-
-  <!-- Centered static text -->
-  <span style="position: absolute; bottom: 40px; left: 50%; transform: translateX(-50%); font-size:18px; font-family:Space Grotesk, sans-serif; font-weight:bold; color:white;">
-    Philippians 4:13
-  </span>
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Philippians%204:13&fontSize=25&fontAlign=50&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" 
+       alt="Footer Banner" style="width:100%;display:block;"/>
 </p>
 
