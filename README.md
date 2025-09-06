@@ -127,7 +127,7 @@
 ---
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Philippians%204:13&fontSize=25&fontAlign=50&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Philippians%204:13+KJV&fontSize=25&fontAlign=50&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" 
        alt="Footer Banner" style="width:100%;display:block;"/>
 </p>
 
