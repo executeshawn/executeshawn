@@ -108,7 +108,7 @@
 ##  Currently Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=SHAPING+MY+FUTURE!" alt="Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=SHAPING+THE+FUTURE!" alt="Line 1" />
 </p>
 
 ---
