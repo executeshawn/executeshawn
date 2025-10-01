@@ -113,7 +113,7 @@
 
 ---
 
-## Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shawn-cameros-3b0a59367/" target="_blank">
