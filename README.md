@@ -70,11 +70,17 @@
 ![Photoshop](https://img.shields.io/badge/Photo%20Shop-FF5A00?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ### **Homelab Stack**
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-FF0000?style=for-the-badge&logo=adguard&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-47D16A?style=for-the-badge&logo=netdata&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0E6655?style=for-the-badge&logo=ollama&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-FF6600?style=for-the-badge&logo=traefik&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-00D4AA?style=for-the-badge&logo=uptime-kuma&logoColor=white)
+![VMware%20ESXi](https://img.shields.io/badge/VMware_ESXi-4285F4?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -109,7 +115,7 @@
 ##  Currently Building
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=SHAPING+THE+FUTURE!" alt="Line 1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=GLORY+TO+GOD!" alt="Line 1" />
 </p>
 
 ---
