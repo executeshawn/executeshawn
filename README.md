@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20there%20👋%20I'm%20Shawn!&fontSize=35&fontAlign=middle&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=125&section=header&text=Hi%20there%20👋%20I'm%20Shawn!&fontSize=35&fontAlign=middle&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <p align="center">
-  <b> <i>A Computer Engineer who explores web, software, hardware, and builds embedded systems with curiosity and creativity.</i></b><br/>
+  <b> <i>A computer engineer who explores web, software, hardware, and builds embedded systems with curiosity and creativity.</i></b><br/>
 </p>
 
----
 
-## 🛠 Software Development
+
+## 👨🏻‍💻 Software Development
 
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,31 +27,36 @@
   ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   
   ![Clerk Auth](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
   ![Firebase Auth](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  
----
 
-## 🔌 Embedded Systems & Hardware
+  ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+  ![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+  ![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+## 🤖 Embedded Systems & Hardware
 
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
   ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
----
+
 
 ## 🎨 Design & Creative Tools
 
@@ -61,7 +66,7 @@
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
----
+
 
 ## 🏠 Homelab & Self-Hosting
 
@@ -76,38 +81,39 @@
   ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
   ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-00D4AA?style=for-the-badge&logo=uptime-kuma&logoColor=white)
   ![VMware%20ESXi](https://img.shields.io/badge/VMware_ESXi-4285F4?style=for-the-badge&logo=vmware&logoColor=white)
----
+
+
 
 ## 🚀 What I Do
 
 * Building software and embedded systems projects
 * Exploring IoT, automation, and self-hosted technologies
 * Continuously learning and experimenting with new tools and ideas
-* Bridging hardware and software to create practical solutions
+* Bridging hardware and software to create practical and fun solutions
 
----
+
 
 ## 📊 GitHub Stats ⚡
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=executeshawn&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=executeshawn&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&theme=github_dark" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=executeshawn&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=executeshawn&layout=compact&theme=github_dark&langs_count=12" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=executeshawn&theme=github_dark" />
 </p>
 
----
 
-## 🚧 Currently Building
+
+## 🛠️ Currently Building
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=700&height=40&center=true&lines=GLORY+TO+GOD!" alt="Line 1" />
 </p>
 
----
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shawn-cameros-3b0a59367/" target="_blank">
@@ -117,9 +123,13 @@
   <a href="https://www.facebook.com/PasshawnMusic" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+
+  <a href="https://www.youtube.com/@shawnnheiserlab" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Philippians%204:13+KJV&fontSize=25&fontColor=ffffff&font=Space+Grotesk&animation=fadeIn" alt="Footer Banner"/>
