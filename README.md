@@ -80,6 +80,7 @@
 
   ![FreeShow](https://img.shields.io/badge/FreeShow-6E56CF?style=for-the-badge)
   ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+  ![Lightkey](https://img.shields.io/badge/Lightkey-4F46E5?style=for-the-badge)
   ![ProPresenter](https://img.shields.io/badge/ProPresenter-0066CC?style=for-the-badge)
 
   ![Allen%26Heath](https://img.shields.io/badge/Allen%26Heath-8B0000?style=for-the-badge)
