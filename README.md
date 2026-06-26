@@ -25,6 +25,9 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+  ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -39,6 +42,7 @@
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
   ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -56,6 +60,10 @@
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
   ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
+  ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+  ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+
+
 
 
 ## 🎨 Design & Creative Tools
@@ -68,7 +76,24 @@
 
 
 
+## 🎥 Media Production & CAD
+
+  ![FreeShow](https://img.shields.io/badge/FreeShow-6E56CF?style=for-the-badge)
+  ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+  ![ProPresenter](https://img.shields.io/badge/ProPresenter-0066CC?style=for-the-badge)
+
+  ![Allen%26Heath](https://img.shields.io/badge/Allen%26Heath-8B0000?style=for-the-badge)
+  ![Behringer](https://img.shields.io/badge/Behringer-FFD000?style=for-the-badge)
+  ![Midas](https://img.shields.io/badge/Midas-FFCC00?style=for-the-badge)
+  
+  ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+
+
 ## 🏠 Homelab & Self-Hosting
+
+  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
   ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-FF0000?style=for-the-badge&logo=adguard&logoColor=white)
   ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
