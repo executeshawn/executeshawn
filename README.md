@@ -34,18 +34,12 @@
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  
   ![Clerk Auth](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
-  ![Firebase Auth](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Supabase Auth](https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-  ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-  ![Supabase Storage](https://img.shields.io/badge/Supabase_Storage-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   ![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -65,7 +59,6 @@
 
 
 
-
 ## 🎨 Design & Creative Tools
 
   ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
@@ -76,7 +69,7 @@
 
 
 
-## 🎥 Media Production & CAD
+## 🎥 AVL & 3D
 
   ![FreeShow](https://img.shields.io/badge/FreeShow-6E56CF?style=for-the-badge)
   ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
@@ -96,17 +89,20 @@
 
   ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-  ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-FF0000?style=for-the-badge&logo=adguard&logoColor=white)
+  ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+  ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+
   ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
   ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
   ![Netdata](https://img.shields.io/badge/Netdata-47D16A?style=for-the-badge&logo=netdata&logoColor=white)
   ![Ollama](https://img.shields.io/badge/Ollama-0E6655?style=for-the-badge&logo=ollama&logoColor=white)
+  
   ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
   ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-  ![Traefik](https://img.shields.io/badge/Traefik-FF6600?style=for-the-badge&logo=traefik&logoColor=white)
+  ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
   ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-  ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-00D4AA?style=for-the-badge&logo=uptime-kuma&logoColor=white)
-  ![VMware%20ESXi](https://img.shields.io/badge/VMware_ESXi-4285F4?style=for-the-badge&logo=vmware&logoColor=white)
+  ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptime-kuma&logoColor=white)
+  ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 
 
